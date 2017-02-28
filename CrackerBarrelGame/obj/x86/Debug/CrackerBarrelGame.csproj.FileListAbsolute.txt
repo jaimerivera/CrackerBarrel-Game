@@ -1,0 +1,18 @@
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\bin\Debug\CrackerBarrelGame.exe
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\bin\Debug\CrackerBarrelGame.pdb
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.Form1.resources
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.Properties.Resources.resources
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.exe
+C:\Users\jrivera\AppData\Local\Temporary Projects\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.pdb
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.exe
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.pdb
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\bin\Debug\CrackerBarrelGame.exe
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\bin\Debug\CrackerBarrelGame.pdb
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.Form1.resources
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Debug\CrackerBarrelGame.Properties.Resources.resources
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Debug\GenerateResource.write.1.tlog

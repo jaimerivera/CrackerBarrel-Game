@@ -1,0 +1,18 @@
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\bin\Release\CrackerBarrelGame.exe
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\bin\Release\CrackerBarrelGame.pdb
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.Form1.resources
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.Properties.Resources.resources
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.exe
+C:\Users\jrivera\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.pdb
+C:\Users\jaimer\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.exe
+C:\Users\jaimer\Documents\Visual Studio 2010\Delete\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.pdb
+C:\Users\jaimer\Documents\LaptopDocuments\Software Projects\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.pdb
+C:\Users\jaimer\Documents\LaptopDocuments\Software Projects\CrackerBarrelGame\CrackerBarrelGame\bin\Release\CrackerBarrelGame.exe
+C:\Users\jaimer\Documents\LaptopDocuments\Software Projects\CrackerBarrelGame\CrackerBarrelGame\bin\Release\CrackerBarrelGame.pdb
+C:\Users\jaimer\Documents\LaptopDocuments\Software Projects\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.Form1.resources
+C:\Users\jaimer\Documents\LaptopDocuments\Software Projects\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.Properties.Resources.resources
+C:\Users\jaimer\Documents\LaptopDocuments\Software Projects\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.csproj.GenerateResource.Cache
+C:\Users\jaimer\Documents\LaptopDocuments\Software Projects\CrackerBarrelGame\CrackerBarrelGame\obj\x86\Release\CrackerBarrelGame.exe
